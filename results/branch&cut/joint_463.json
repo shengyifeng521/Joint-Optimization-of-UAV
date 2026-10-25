@@ -1,0 +1,513 @@
+{
+  "method": "joint",
+  "selected_vps": [
+    1,
+    5,
+    6,
+    9,
+    11,
+    13,
+    20,
+    21,
+    22,
+    23,
+    24,
+    32,
+    35,
+    42,
+    44,
+    45,
+    47,
+    51,
+    52,
+    53,
+    64,
+    66,
+    72
+  ],
+  "selected_vp_ids": [
+    "v2",
+    "v6",
+    "v7",
+    "v10",
+    "v12",
+    "v14",
+    "v21",
+    "v22",
+    "v23",
+    "v24",
+    "v25",
+    "v33",
+    "v36",
+    "v43",
+    "v45",
+    "v46",
+    "v48",
+    "v52",
+    "v53",
+    "v54",
+    "v65",
+    "v67",
+    "v73"
+  ],
+  "selected_pairs": [
+    [
+      1,
+      "a8"
+    ],
+    [
+      5,
+      "a8"
+    ],
+    [
+      6,
+      "a8"
+    ],
+    [
+      6,
+      "a9"
+    ],
+    [
+      9,
+      "a10"
+    ],
+    [
+      11,
+      "a10"
+    ],
+    [
+      13,
+      "a8"
+    ],
+    [
+      20,
+      "a11"
+    ],
+    [
+      20,
+      "a5"
+    ],
+    [
+      21,
+      "a11"
+    ],
+    [
+      21,
+      "a5"
+    ],
+    [
+      22,
+      "a10"
+    ],
+    [
+      23,
+      "a12"
+    ],
+    [
+      23,
+      "a8"
+    ],
+    [
+      24,
+      "a10"
+    ],
+    [
+      32,
+      "a11"
+    ],
+    [
+      32,
+      "a5"
+    ],
+    [
+      35,
+      "a10"
+    ],
+    [
+      35,
+      "a6"
+    ],
+    [
+      35,
+      "a7"
+    ],
+    [
+      42,
+      "a14"
+    ],
+    [
+      42,
+      "a7"
+    ],
+    [
+      44,
+      "a10"
+    ],
+    [
+      45,
+      "a14"
+    ],
+    [
+      45,
+      "a7"
+    ],
+    [
+      47,
+      "a6"
+    ],
+    [
+      51,
+      "a8"
+    ],
+    [
+      51,
+      "a9"
+    ],
+    [
+      52,
+      "a12"
+    ],
+    [
+      53,
+      "a12"
+    ],
+    [
+      64,
+      "a12"
+    ],
+    [
+      66,
+      "a10"
+    ],
+    [
+      72,
+      "a12"
+    ]
+  ],
+  "selected_photos_readable": [
+    [
+      "v2",
+      "a8"
+    ],
+    [
+      "v6",
+      "a8"
+    ],
+    [
+      "v7",
+      "a8"
+    ],
+    [
+      "v7",
+      "a9"
+    ],
+    [
+      "v10",
+      "a10"
+    ],
+    [
+      "v12",
+      "a10"
+    ],
+    [
+      "v14",
+      "a8"
+    ],
+    [
+      "v21",
+      "a11"
+    ],
+    [
+      "v21",
+      "a5"
+    ],
+    [
+      "v22",
+      "a11"
+    ],
+    [
+      "v22",
+      "a5"
+    ],
+    [
+      "v23",
+      "a10"
+    ],
+    [
+      "v24",
+      "a12"
+    ],
+    [
+      "v24",
+      "a8"
+    ],
+    [
+      "v25",
+      "a10"
+    ],
+    [
+      "v33",
+      "a11"
+    ],
+    [
+      "v33",
+      "a5"
+    ],
+    [
+      "v36",
+      "a10"
+    ],
+    [
+      "v36",
+      "a6"
+    ],
+    [
+      "v36",
+      "a7"
+    ],
+    [
+      "v43",
+      "a14"
+    ],
+    [
+      "v43",
+      "a7"
+    ],
+    [
+      "v45",
+      "a10"
+    ],
+    [
+      "v46",
+      "a14"
+    ],
+    [
+      "v46",
+      "a7"
+    ],
+    [
+      "v48",
+      "a6"
+    ],
+    [
+      "v52",
+      "a8"
+    ],
+    [
+      "v52",
+      "a9"
+    ],
+    [
+      "v53",
+      "a12"
+    ],
+    [
+      "v54",
+      "a12"
+    ],
+    [
+      "v65",
+      "a12"
+    ],
+    [
+      "v67",
+      "a10"
+    ],
+    [
+      "v73",
+      "a12"
+    ]
+  ],
+  "photos_by_viewpoint": {
+    "v2": [
+      "a8"
+    ],
+    "v6": [
+      "a8"
+    ],
+    "v7": [
+      "a8",
+      "a9"
+    ],
+    "v10": [
+      "a10"
+    ],
+    "v12": [
+      "a10"
+    ],
+    "v14": [
+      "a8"
+    ],
+    "v21": [
+      "a11",
+      "a5"
+    ],
+    "v22": [
+      "a11",
+      "a5"
+    ],
+    "v23": [
+      "a10"
+    ],
+    "v24": [
+      "a12",
+      "a8"
+    ],
+    "v25": [
+      "a10"
+    ],
+    "v33": [
+      "a11",
+      "a5"
+    ],
+    "v36": [
+      "a10",
+      "a6",
+      "a7"
+    ],
+    "v43": [
+      "a14",
+      "a7"
+    ],
+    "v45": [
+      "a10"
+    ],
+    "v46": [
+      "a14",
+      "a7"
+    ],
+    "v48": [
+      "a6"
+    ],
+    "v52": [
+      "a8",
+      "a9"
+    ],
+    "v53": [
+      "a12"
+    ],
+    "v54": [
+      "a12"
+    ],
+    "v65": [
+      "a12"
+    ],
+    "v67": [
+      "a10"
+    ],
+    "v73": [
+      "a12"
+    ]
+  },
+  "tour": [
+    44,
+    11,
+    9,
+    66,
+    64,
+    72,
+    53,
+    52,
+    23,
+    13,
+    51,
+    5,
+    6,
+    1,
+    45,
+    42,
+    35,
+    47,
+    32,
+    21,
+    20,
+    22,
+    24,
+    44
+  ],
+  "tour_ids": [
+    "v45",
+    "v12",
+    "v10",
+    "v67",
+    "v65",
+    "v73",
+    "v54",
+    "v53",
+    "v24",
+    "v14",
+    "v52",
+    "v6",
+    "v7",
+    "v2",
+    "v46",
+    "v43",
+    "v36",
+    "v48",
+    "v33",
+    "v22",
+    "v21",
+    "v23",
+    "v25",
+    "v45"
+  ],
+  "energy": 101.84236166154001,
+  "weighted_quality": 560.03125,
+  "photos": 33,
+  "n_viewpoints": 23,
+  "energy_norm": 0.41260688570198595,
+  "quality_norm": 0.9722764756944444,
+  "photo_norm": 0.2214765100671141,
+  "energy_norm_denom": 246.8266167886927,
+  "runtime": 8.613793886033818,
+  "atsp_runtime": 0.0,
+  "obj": -0.3381930799253444,
+  "mip_gap": 1.6414041128077434e-16,
+  "status": 1,
+  "obj_bound": -0.3381930799253445,
+  "solver": "COPT",
+  "is_optimal": true,
+  "relative_gap_limit": 0.0,
+  "absolute_gap_limit": 0.0,
+  "time_limit_joint": 1e+20,
+  "threads": 8,
+  "memory_limit_mb": 40960.0,
+  "absolute_gap": 5.551115123125783e-17,
+  "subtour_method": "undirected_branch_and_cut",
+  "routing_formulation": "undirected",
+  "symmetric_energy": 101.84236166153998,
+  "energy_identity_error": 2.842170943040401e-14,
+  "fractional_cuts_enabled": true,
+  "fractional_config": {
+    "enabled": true,
+    "initial_rounds": 20,
+    "interval": 20,
+    "max_flows": 32,
+    "max_cuts": 16,
+    "budget_seconds": 0.25,
+    "violation_tolerance": 1e-06,
+    "flow_tolerance": 1e-10
+  },
+  "search_nodes": 828,
+  "directed_edge_count": 4726,
+  "undirected_edge_count": 2363,
+  "max_energy_potential_residual": 3.552713678800501e-15,
+  "energy_identity_atol": 1e-09,
+  "energy_identity_rtol": 1e-12,
+  "lazy_callback_calls": 43,
+  "lazy_cut_submissions": 20,
+  "fractional_callback_calls": 1318,
+  "fractional_separation_rounds": 84,
+  "fractional_user_cut_submissions": 654,
+  "fractional_mincut_calls": 2653,
+  "fractional_separation_seconds": 1.0741136914584786,
+  "runtime_two_step": 2.3305485148448497,
+  "runtime_joint": 6.283245371188968,
+  "joint_solver_runtime": 6.201678991317749,
+  "runtime_step1": 0.17757177352905273,
+  "runtime_step2": 2.0757839679718018,
+  "warm_start_source": "two_step",
+  "warm_start_status": "submitted",
+  "warm_start_error": null,
+  "warm_start_obj": -0.26256333491467293
+}

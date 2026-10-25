@@ -1,0 +1,543 @@
+{
+  "method": "joint",
+  "selected_vps": [
+    0,
+    4,
+    6,
+    7,
+    9,
+    11,
+    12,
+    16,
+    21,
+    23,
+    24,
+    27,
+    28,
+    31,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    44
+  ],
+  "selected_vp_ids": [
+    "v1",
+    "v5",
+    "v7",
+    "v8",
+    "v10",
+    "v12",
+    "v13",
+    "v17",
+    "v22",
+    "v24",
+    "v25",
+    "v28",
+    "v29",
+    "v32",
+    "v35",
+    "v37",
+    "v38",
+    "v39",
+    "v40",
+    "v41",
+    "v42",
+    "v45"
+  ],
+  "selected_pairs": [
+    [
+      0,
+      "a10"
+    ],
+    [
+      0,
+      "a6"
+    ],
+    [
+      4,
+      "a1"
+    ],
+    [
+      4,
+      "a5"
+    ],
+    [
+      6,
+      "a12"
+    ],
+    [
+      6,
+      "a8"
+    ],
+    [
+      7,
+      "a14"
+    ],
+    [
+      7,
+      "a8"
+    ],
+    [
+      9,
+      "a7"
+    ],
+    [
+      11,
+      "a5"
+    ],
+    [
+      12,
+      "a5"
+    ],
+    [
+      12,
+      "a8"
+    ],
+    [
+      16,
+      "a5"
+    ],
+    [
+      21,
+      "a8"
+    ],
+    [
+      23,
+      "a6"
+    ],
+    [
+      24,
+      "a12"
+    ],
+    [
+      24,
+      "a7"
+    ],
+    [
+      27,
+      "a9"
+    ],
+    [
+      28,
+      "a10"
+    ],
+    [
+      28,
+      "a2"
+    ],
+    [
+      31,
+      "a12"
+    ],
+    [
+      31,
+      "a3"
+    ],
+    [
+      31,
+      "a7"
+    ],
+    [
+      34,
+      "a11"
+    ],
+    [
+      36,
+      "a11"
+    ],
+    [
+      37,
+      "a5"
+    ],
+    [
+      37,
+      "a9"
+    ],
+    [
+      38,
+      "a5"
+    ],
+    [
+      38,
+      "a9"
+    ],
+    [
+      39,
+      "a5"
+    ],
+    [
+      39,
+      "a8"
+    ],
+    [
+      40,
+      "a10"
+    ],
+    [
+      40,
+      "a2"
+    ],
+    [
+      40,
+      "a6"
+    ],
+    [
+      41,
+      "a7"
+    ],
+    [
+      44,
+      "a5"
+    ],
+    [
+      44,
+      "a9"
+    ]
+  ],
+  "selected_photos_readable": [
+    [
+      "v1",
+      "a10"
+    ],
+    [
+      "v1",
+      "a6"
+    ],
+    [
+      "v5",
+      "a1"
+    ],
+    [
+      "v5",
+      "a5"
+    ],
+    [
+      "v7",
+      "a12"
+    ],
+    [
+      "v7",
+      "a8"
+    ],
+    [
+      "v8",
+      "a14"
+    ],
+    [
+      "v8",
+      "a8"
+    ],
+    [
+      "v10",
+      "a7"
+    ],
+    [
+      "v12",
+      "a5"
+    ],
+    [
+      "v13",
+      "a5"
+    ],
+    [
+      "v13",
+      "a8"
+    ],
+    [
+      "v17",
+      "a5"
+    ],
+    [
+      "v22",
+      "a8"
+    ],
+    [
+      "v24",
+      "a6"
+    ],
+    [
+      "v25",
+      "a12"
+    ],
+    [
+      "v25",
+      "a7"
+    ],
+    [
+      "v28",
+      "a9"
+    ],
+    [
+      "v29",
+      "a10"
+    ],
+    [
+      "v29",
+      "a2"
+    ],
+    [
+      "v32",
+      "a12"
+    ],
+    [
+      "v32",
+      "a3"
+    ],
+    [
+      "v32",
+      "a7"
+    ],
+    [
+      "v35",
+      "a11"
+    ],
+    [
+      "v37",
+      "a11"
+    ],
+    [
+      "v38",
+      "a5"
+    ],
+    [
+      "v38",
+      "a9"
+    ],
+    [
+      "v39",
+      "a5"
+    ],
+    [
+      "v39",
+      "a9"
+    ],
+    [
+      "v40",
+      "a5"
+    ],
+    [
+      "v40",
+      "a8"
+    ],
+    [
+      "v41",
+      "a10"
+    ],
+    [
+      "v41",
+      "a2"
+    ],
+    [
+      "v41",
+      "a6"
+    ],
+    [
+      "v42",
+      "a7"
+    ],
+    [
+      "v45",
+      "a5"
+    ],
+    [
+      "v45",
+      "a9"
+    ]
+  ],
+  "photos_by_viewpoint": {
+    "v1": [
+      "a10",
+      "a6"
+    ],
+    "v5": [
+      "a1",
+      "a5"
+    ],
+    "v7": [
+      "a12",
+      "a8"
+    ],
+    "v8": [
+      "a14",
+      "a8"
+    ],
+    "v10": [
+      "a7"
+    ],
+    "v12": [
+      "a5"
+    ],
+    "v13": [
+      "a5",
+      "a8"
+    ],
+    "v17": [
+      "a5"
+    ],
+    "v22": [
+      "a8"
+    ],
+    "v24": [
+      "a6"
+    ],
+    "v25": [
+      "a12",
+      "a7"
+    ],
+    "v28": [
+      "a9"
+    ],
+    "v29": [
+      "a10",
+      "a2"
+    ],
+    "v32": [
+      "a12",
+      "a3",
+      "a7"
+    ],
+    "v35": [
+      "a11"
+    ],
+    "v37": [
+      "a11"
+    ],
+    "v38": [
+      "a5",
+      "a9"
+    ],
+    "v39": [
+      "a5",
+      "a9"
+    ],
+    "v40": [
+      "a5",
+      "a8"
+    ],
+    "v41": [
+      "a10",
+      "a2",
+      "a6"
+    ],
+    "v42": [
+      "a7"
+    ],
+    "v45": [
+      "a5",
+      "a9"
+    ]
+  },
+  "tour": [
+    28,
+    34,
+    36,
+    16,
+    27,
+    4,
+    44,
+    37,
+    38,
+    39,
+    11,
+    12,
+    7,
+    6,
+    21,
+    24,
+    31,
+    9,
+    23,
+    41,
+    0,
+    40,
+    28
+  ],
+  "tour_ids": [
+    "v29",
+    "v35",
+    "v37",
+    "v17",
+    "v28",
+    "v5",
+    "v45",
+    "v38",
+    "v39",
+    "v40",
+    "v12",
+    "v13",
+    "v8",
+    "v7",
+    "v22",
+    "v25",
+    "v32",
+    "v10",
+    "v24",
+    "v42",
+    "v1",
+    "v41",
+    "v29"
+  ],
+  "energy": 70.04323997806537,
+  "weighted_quality": 315.03125,
+  "photos": 37,
+  "n_viewpoints": 22,
+  "energy_norm": 0.4792486706928528,
+  "quality_norm": 0.98447265625,
+  "photo_norm": 0.3490566037735849,
+  "energy_norm_denom": 146.15218416110247,
+  "runtime": 1.3894747039303184,
+  "atsp_runtime": 0.0,
+  "obj": -0.15616738178356296,
+  "mip_gap": 0.0,
+  "status": 1,
+  "obj_bound": -0.15616738178356296,
+  "solver": "COPT",
+  "is_optimal": true,
+  "relative_gap_limit": 0.0,
+  "absolute_gap_limit": 0.0,
+  "time_limit_joint": 1e+20,
+  "threads": 8,
+  "memory_limit_mb": 40960.0,
+  "absolute_gap": 0.0,
+  "subtour_method": "undirected_branch_and_cut",
+  "routing_formulation": "undirected",
+  "symmetric_energy": 70.04323997806537,
+  "energy_identity_error": 0.0,
+  "fractional_cuts_enabled": true,
+  "fractional_config": {
+    "enabled": true,
+    "initial_rounds": 20,
+    "interval": 20,
+    "max_flows": 32,
+    "max_cuts": 16,
+    "budget_seconds": 0.25,
+    "violation_tolerance": 1e-06,
+    "flow_tolerance": 1e-10
+  },
+  "search_nodes": 3,
+  "directed_edge_count": 1538,
+  "undirected_edge_count": 769,
+  "max_energy_potential_residual": 3.552713678800501e-15,
+  "energy_identity_atol": 1e-09,
+  "energy_identity_rtol": 1e-12,
+  "lazy_callback_calls": 35,
+  "lazy_cut_submissions": 8,
+  "fractional_callback_calls": 28,
+  "fractional_separation_rounds": 20,
+  "fractional_user_cut_submissions": 210,
+  "fractional_mincut_calls": 630,
+  "fractional_separation_seconds": 0.17904084618203342,
+  "runtime_two_step": 0.6435784690547734,
+  "runtime_joint": 0.7458962348755449,
+  "joint_solver_runtime": 0.6965351104736328,
+  "runtime_step1": 0.03506898880004883,
+  "runtime_step2": 0.5638408660888672,
+  "warm_start_source": "two_step",
+  "warm_start_status": "submitted",
+  "warm_start_error": null,
+  "warm_start_obj": 0.0182932981711747
+}
